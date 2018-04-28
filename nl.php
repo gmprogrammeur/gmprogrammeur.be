@@ -187,7 +187,7 @@ if (isset($_POST["submit"])) {
 
 		<h2 class="w3-center"><i class="fa fa-question w3-hover-text-grey"></i> OVER MIJ</h2>
 
-		<h3 class="w3-center w3-large">Geoffrey Marique<br>Programmer | Ontwikkelaar</h3>
+		<h3 class="w3-center w3-large">Geoffrey M<br>Programmer | Ontwikkelaar</h3>
 
 		<p class="w3-large w3-center">Gepassioneerd door de computer- en technologische wereld, voornamelijk het opzetten van een website (Responsive), ben ik altijd gemotiveerd om nieuwe projecten uit te voeren, om dit te doen, informeer ik mezelf en train mezelf continu.</p>
 
