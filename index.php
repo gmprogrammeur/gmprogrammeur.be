@@ -187,7 +187,7 @@ if (isset($_POST["submit"])) {
 
 		<h2 class="w3-center"><i class="fa fa-question w3-hover-text-grey"></i> A PROPOS</h2>
 
-		<h3 class="w3-center w3-large">Geoffrey Marique<br>Programmeur | Développeur</h3>
+		<h3 class="w3-center w3-large">Geoffrey M<br>Programmeur | Développeur</h3>
 
 		<p class="w3-large w3-center">Passionné par le monde informatique et technologique, principalement la création de site internet (Responsive), je suis toujours motivé pour mener à bien de nouveaux projets, pour ce faire, je m'informe et me forme continuellement.</p>
 
